@@ -1,13 +1,6 @@
+<script setup lang="ts"></script>
+
 <template>
-  <div>
-    
-  </div>
+  <section class="h-screen bg-blue-400">
+  </section>
 </template>
-
-<script lang="ts" setup>
-
-</script>
-
-<style>
-
-</style>
